@@ -32,7 +32,8 @@ Los datos originales se incluyen en este repositorio en formato CSV, dentro de l
 5. Cálculo de indicadores clave (KPIs).
 6. Creación de gráficos y dashboard interactivo con segmentadores.
 
-Todo el proceso de análisis se encuentra desarrollado en un único archivo de Excel.
+Todo el proceso de análisis se encuentra desarrollado en un único archivo de Excel.El informe explicativo del análisis se encuentra disponible en el archivo PDF incluido en el repositorio.
+
 
 ## Herramientas utilizadas
 - Microsoft Excel (fórmulas, tablas dinámicas, gráficos y segmentadores).
